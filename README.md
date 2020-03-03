@@ -1,3 +1,3 @@
-# bootstrap-ngx-alert-visjf-demo-glyysd
+# D3 | NGX-BOOTSTRAP HANDS ON
 
-## ngx bootstrap trial component with angular
+## d3, ngx bootstrap trial component with angular
